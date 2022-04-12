@@ -1,0 +1,3 @@
+C:/Users/Peťa/CLionProjects/SemestralkaC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Peťa/CLionProjects/SemestralkaC/cmake-build-debug/CMakeFiles/SemestralkaC.dir
+C:/Users/Peťa/CLionProjects/SemestralkaC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
